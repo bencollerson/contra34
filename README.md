@@ -1,3 +1,12 @@
+# Contra34
+Fork of the Contra with 34 keys.
+
+![Contra34](https://raw.githubusercontent.com/bencollerson/contra34/master/Images/contra34.jpg)
+
+Also moved the microcontroller to the front to make the keyboard sit lower.
+
+Can be flashed in QMK as a contra keyboard. Just don't assign any keys to the 14 missing keys.
+
 # Contra
 Extremely low cost ortholinear keyboard
 
